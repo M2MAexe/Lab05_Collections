@@ -5,7 +5,5 @@
  * @return none
  */
 fun main(args: Array<String>) {
-    println("456 world!")
-
-    println("1 world!")
+    println("world!")
 }
