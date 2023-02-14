@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3edfd4f-ad19-42e0-ad5f-9ca98b9894ad" name="Changes" comment="Added movie, person and coordinates representation classes. Added movie genre, mpaa rating and color enums. Added methods dummies of movie manager class.">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/movies/Movie.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/movies/MovieEnums.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/movies/MovieManager.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
@@ -30,6 +27,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -66,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676393026845</updated>
       <workItem from="1676393028842" duration="255000" />
-      <workItem from="1676411053793" duration="6733000" />
+      <workItem from="1676411053793" duration="7452000" />
     </task>
     <task id="LOCAL-00001" summary="test from another user">
       <created>1676395477392</created>
@@ -75,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676395477392</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added movie, person and coordinates representation classes. Added movie genre, mpaa rating and color enums. Added methods dummies of movie manager class.">
+      <created>1676418303110</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676418303110</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
